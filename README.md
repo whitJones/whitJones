@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @whitJones
-- 👀 I’m interested in ...
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Javascript, React, and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 whitJones/whitJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
