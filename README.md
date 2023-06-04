@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whitJones
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Javascript, React, and Python
+- 🌱 Continually improving my skills in front end and back end development
 
 
 <!---
