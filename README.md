@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whitJones
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m a Full Stack Developer
 - 🌱 Continually improving my skills in front end and back end development
 
 
